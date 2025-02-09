@@ -36,9 +36,13 @@ Welcome to my GitHub! I'm a passionate **Computer Science student at Ontario Tec
 ---
 
 ## 📫 Connect with Me
+<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/edrees-amiri/)
-<a href="mailto:amiriedrees2005@gmail.com" style="font-size: 18px; padding: 10px 15px; background-color: #D14836; color: white; border-radius: 5px; text-decoration: none; font-weight: bold;">Email Me</a>
+<a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail
+
 
 
 ---
