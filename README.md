@@ -36,9 +36,9 @@ Welcome to my GitHub! I'm a passionate **Computer Science student at Ontario Tec
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/edrees-amiri/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amiriedrees2005@gmail.com)
 
 ---
 
-Feel free to check out my repositories or reach out if you'd like to collaborate or chat about tech, storytelling, or anything in between!
+Feel free to check out my repositories, or reach out if you'd like to collaborate!
