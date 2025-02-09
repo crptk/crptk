@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science student at Ontario Tec
 
 ---
 
-## 🌟 GitHub Stats
+## 🌟 My Top Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crptk&layout=compact&theme=radical)
 
 ---
