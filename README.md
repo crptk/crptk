@@ -1,4 +1,4 @@
-# Hi there, I'm Edrees, a.k.a **Crptk** 👋
+# Hi there, I'm Edrees, A.K.A **Crptk** 👋
 
 Welcome to my GitHub! I'm a passionate **Computer Science student at Ontario Tech University** who loves creating innovative solutions and collaborating on impactful projects. My journey started with a love for video games and solving puzzles, which evolved into a deep interest in programming and technology.
 
