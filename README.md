@@ -6,16 +6,16 @@ Welcome to my GitHub! I'm a passionate **Computer Science student at Ontario Tec
 
 ## About Me
 
-- 🎮 **What sparked my interest?** Growing up playing video games and solving puzzles led me to discover my passion for programming in high school. 
-- 🎥 **My Creative side:** I’ve always enjoyed videography and storytelling, creating films as a hobby. While I chose programming as a career, editing and storytelling remain close to my heart.
-- 💡 **Why computer science?** The joy of problem-solving and creating something from scratch made me fall in love with coding. 
-- 🌐 **What I’m exploring now:** AI and cloud computing, two fields that fascinate me for their potential to transform the world.
-- 🌱 **Currently learning:** Web development to apply my skills to projects once I delve further into Cloud Computing and AI
-- 🚀 **Looking ahead:** I'm actively seeking co-op opportunities for Summer 2025 and beyond to build impactful projects and grow professionally.
+- **What sparked my interest?** Growing up playing video games and solving puzzles led me to discover my passion for programming in high school. 
+- **My Creative side:** I’ve always enjoyed videography and storytelling, creating films as a hobby. While I chose programming as a career, editing and storytelling remain close to my heart.
+- **Why computer science?** The joy of problem-solving and creating something from scratch made me fall in love with coding. 
+- **What I’m exploring now:** AI and cloud computing, two fields that fascinate me for their potential to transform the world.
+- **Currently learning:** Web development to apply my skills to projects once I delve further into Cloud Computing and AI
+- **Looking ahead:** I'm actively seeking co-op opportunities for Summer 2025 and beyond to build impactful projects and grow professionally.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Programming Languages:
 - Python, Java, C++, C, HTML/CSS, JavaScript, TypeScript, SQL
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science student at Ontario Tec
 
 ---
 
-## 🌟 My Top Used Languages
+## My Top Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crptk&layout=compact&theme=radical)
 
 ---
