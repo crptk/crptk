@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate Computer Science student at Ontario Tech 
 - **Why computer science?** The joy of problem-solving and creating something from scratch made me fall in love with coding. 
 - **What I’m exploring now:** AI and cloud computing, two fields that fascinate me for their potential to transform the world.
 - **Currently learning:** Web development to apply my skills to projects once I delve further into Cloud Computing and AI
-- **Looking ahead:** I'm actively seeking co-op opportunities for Summer 2025 and beyond to build impactful projects and grow professionally.
+- **Looking ahead:** I'm actively seeking co-op opportunities for Winter 2026 and beyond to build impactful projects and grow professionally.
 
 ---
 
