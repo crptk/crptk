@@ -26,12 +26,6 @@ Welcome to my GitHub! I'm a passionate Computer Science student at Ontario Tech 
 ### **Other Technical Skills**
 * REST APIs, JWT Authentication, WebSockets, FFmpeg, Cohere API
 
----
-
-👉 That way you cover everything in your screenshot **plus** keep the categories clear (like your draft).
-
-Do you want me to make this **LaTeX-ready** for your resume (with `\textbf{}` formatting like your current style)?
-
 
 ### Interests:
 - **Artificial Intelligence:** Building smarter systems and exploring neural networks.
