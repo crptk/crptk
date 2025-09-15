@@ -17,11 +17,24 @@ Welcome to my GitHub! I'm a passionate Computer Science student at Ontario Tech 
 
 ## Skills
 
-### Programming Languages:
-- Python, Java, C++, C, HTML/CSS, JavaScript, TypeScript, SQL
+### **Programming Languages**
+* Python, Java, C++, C, HTML/CSS, JavaScript, TypeScript, SQL
+* 
+### **Frameworks & Libraries**
+* PyTorch, Scikit-learn, Flask, Spring Boot, React, Bootstrap, Vite, Supabase
+* 
+### **Tools & Platforms**
+* Git, Jupyter Notebook, Figma, PowerShell, Bash, Linux, Windows, Excel, Docker, Vercel, Railway, Fly.io, Azure, LaTeX
+* 
+### **Other Technical Skills**
+* REST APIs, JWT Authentication, WebSockets, FFmpeg, Cohere API
 
-### Frameworks & Tools:
-- Flask, Bootstrap, Git, PowerShell, Linux, Excel, LaTeX
+---
+
+👉 That way you cover everything in your screenshot **plus** keep the categories clear (like your draft).
+
+Do you want me to make this **LaTeX-ready** for your resume (with `\textbf{}` formatting like your current style)?
+
 
 ### Interests:
 - **Artificial Intelligence:** Building smarter systems and exploring neural networks.
