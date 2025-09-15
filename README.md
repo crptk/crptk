@@ -25,7 +25,6 @@ Welcome to my GitHub! I'm a passionate Computer Science student at Ontario Tech 
 
 ### Interests:
 - **Artificial Intelligence:** Building smarter systems and exploring neural networks.
-- **Cloud Computing:** Leveraging platforms like AWS and Microsoft Azure to scale solutions.
 - **Storytelling:** Crafting narratives through videography and project design.
 
 ---
