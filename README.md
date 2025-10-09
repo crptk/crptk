@@ -1,17 +1,4 @@
-# Hi there, I'm Edrees, A.K.A **Crptk**.
-
-Welcome to my GitHub! I'm a passionate Computer Science student at Ontario Tech University who loves creating innovative solutions and collaborating on impactful projects. My journey started with a love for video games and solving puzzles, which evolved into a deep interest in programming and technology.
-
----
-
-## About Me
-
-- **What sparked my interest?** Growing up playing video games and solving puzzles led me to discover my passion for programming in high school. 
-- **My Creative side:** I’ve always enjoyed videography and storytelling, creating films as a hobby. While I chose programming as a career, editing and storytelling remain close to my heart.
-- **Why computer science?** The joy of problem-solving and creating something from scratch made me fall in love with coding. 
-- **What I’m exploring now:** AI and cloud computing, two fields that fascinate me for their potential to transform the world.
-- **Currently learning:** Web development to apply my skills to projects once I delve further into Cloud Computing and AI
-- **Looking ahead:** I'm actively seeking co-op opportunities for Winter 2026 and beyond to build impactful projects and grow professionally.
+I'm Edrees, though online I go by Crptk (cryptic), I'm a CS student who found a spark in AI/ML when I took a short crash course on it by SentDex on YouTube. After that, I ended up building my first large scale project ResyncBot, which ended up being deployed on over 150 servers across discord and officially verified and posted on top.gg. I had always wanted to find that one project that would spark my field as more than just a career but a hobby as well, and now I finally have, and it feels extremely liberating. Riding this spark, I'm currently working on my first AI video editing scene selection tool - AMverge, set to release sometime 2026.
 
 ---
 
@@ -35,18 +22,6 @@ Welcome to my GitHub! I'm a passionate Computer Science student at Ontario Tech 
 
 ## My Top Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crptk&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-<a href="https://www.linkedin.com/in/edrees-amiri/" target="_blank" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:amiriedrees2005@gmail.com" target="_blank" style="margin-left: 0;">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
 
 
 ---
