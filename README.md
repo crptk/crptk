@@ -13,17 +13,7 @@ I'm Edrees, though online I go by Crptk (cryptic), I'm a CS student who found a 
 ### **Other Technical Skills**
 * REST APIs, JWT Authentication, WebSockets, FFmpeg, Cohere API
 
-
-### Interests:
-- **Artificial Intelligence:** Building smarter systems and exploring neural networks.
-- **Storytelling:** Crafting narratives through videography and project design.
-
 ---
 
 ## My Top Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crptk&layout=compact&theme=radical)
-
-
----
-
-Feel free to check out my repositories, or reach out if you'd like to collaborate!
