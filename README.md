@@ -1,7 +1,3 @@
-I'm Edrees, though online I go by Crptk (cryptic), I'm a CS student who found a spark in AI/ML when I took a short crash course on it by SentDex on YouTube. After that, I started building my first large scale project ResyncBot, which ended up being deployed on over 150 servers across discord and officially verified by top.gg (platform for Discord's most successful bots). I had always wanted to find that one project that would spark my field as more than just a career but a hobby as well, and now that I finally have, it feels extremely liberating. I'm currently working on my first AI video editing scene selection tool - AMverge, set to release sometime 2026.
-
----
-
 ## Skills
 
 ### **Programming Languages**
