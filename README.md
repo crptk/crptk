@@ -1,14 +1,15 @@
 ## Skills
 
 ### **Programming Languages**
-* Python, Java, C++, C, HTML/CSS, JavaScript, TypeScript, SQL
-### **Frameworks & Libraries**
-* PyTorch, Scikit-learn, Flask, Spring Boot, React, Bootstrap, Vite, Supabase
-### **Tools & Platforms**
-* Git, Jupyter Notebook, Figma, PowerShell, Bash, Linux, Windows, Excel, Docker, Vercel, Railway, Fly.io, Azure, LaTeX
-### **Other Technical Skills**
-* REST APIs, JWT Authentication, WebSockets, FFmpeg, Cohere API
-
+* Python, Typescript, Javascript, Java, C++, SQL, HTML/CSS
+### **Machine Learning & Data**
+* PyTorch, PyTorch Lightning, Hugging Face, Scikit-learn, Pandas, NumPy, BigQuery
+### **Backend & Frontend**
+* React, Node.js, Flask, REST APIs
+### **Cloud & DevOps**
+* AWS, Google Cloud, Azure, Docker, CI/CD, Linux
+### **Tools**
+* Git, Firebase, Supabase, Vercel, Railway, Fly.io, Bash, PowerShell, FFmpeg, Figma
 ---
 
 ## My Top Used Languages
