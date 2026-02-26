@@ -10,7 +10,3 @@
 * AWS, Google Cloud, Azure, Docker, CI/CD, Linux
 ### **Tools**
 * Git, Firebase, Supabase, Vercel, Railway, Fly.io, Bash, PowerShell, FFmpeg, Figma
----
-
-## My Top Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crptk&layout=compact&theme=radical)
